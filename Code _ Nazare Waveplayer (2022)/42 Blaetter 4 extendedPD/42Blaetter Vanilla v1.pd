@@ -1,0 +1,156 @@
+#N canvas 4 -6 3440 1356 12;
+#X obj 708 284 comport 4 9600;
+#X obj 708 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 761 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 813 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 866 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 918 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 971 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1023 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1076 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1128 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1181 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1233 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1286 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1338 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1391 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1443 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1496 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1548 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1601 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1653 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1706 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1758 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1811 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1863 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1916 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 1968 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2021 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2073 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2126 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2178 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2231 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2283 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2335 376 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2388 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2441 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2493 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2546 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2598 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2651 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2703 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2756 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2808 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2860 375 tgl 36 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 2893 329 dac~ 1 2 3 4 5 6;
+#X obj 2893 176 catch~ Eins;
+#X obj 2915 201 catch~ Zwei;
+#X obj 2936 226 catch~ Drei;
+#X obj 2958 251 catch~ Vier;
+#X obj 2980 275 catch~ Fünf;
+#X obj 3002 298 catch~ Sechs;
+#X text 2891 142 Master Out;
+#X text 704 198 Arduino-Mega Input auf COM4;
+#X msg 708 258 close;
+#X msg 708 234 open 4;
+#X obj 759 506 print waskommt;
+#X obj 708 329 unpack f f f f f f f f f f f f f f f f f f f f f f f
+f f f f f f f f f f f f f f f f f f f f, f 308;
+#X obj 708 306 unserialize 43;
+#X floatatom 2922 387 5 0 0 0 - - - 0;
+#X connect 0 0 56 0;
+#X connect 44 0 43 0;
+#X connect 45 0 43 1;
+#X connect 46 0 43 2;
+#X connect 47 0 43 3;
+#X connect 48 0 43 4;
+#X connect 49 0 43 5;
+#X connect 52 0 0 0;
+#X connect 53 0 0 0;
+#X connect 55 0 1 0;
+#X connect 55 1 2 0;
+#X connect 55 2 3 0;
+#X connect 55 3 4 0;
+#X connect 55 4 5 0;
+#X connect 55 5 6 0;
+#X connect 55 6 7 0;
+#X connect 55 7 8 0;
+#X connect 55 8 9 0;
+#X connect 55 9 10 0;
+#X connect 55 10 11 0;
+#X connect 55 11 12 0;
+#X connect 55 12 13 0;
+#X connect 55 13 14 0;
+#X connect 55 14 15 0;
+#X connect 55 15 16 0;
+#X connect 55 16 17 0;
+#X connect 55 17 18 0;
+#X connect 55 18 19 0;
+#X connect 55 19 20 0;
+#X connect 55 20 21 0;
+#X connect 55 21 22 0;
+#X connect 55 22 23 0;
+#X connect 55 23 24 0;
+#X connect 55 24 25 0;
+#X connect 55 25 26 0;
+#X connect 55 26 27 0;
+#X connect 55 27 28 0;
+#X connect 55 28 29 0;
+#X connect 55 29 30 0;
+#X connect 55 30 31 0;
+#X connect 55 31 32 0;
+#X connect 55 32 33 0;
+#X connect 55 33 34 0;
+#X connect 55 34 35 0;
+#X connect 55 35 36 0;
+#X connect 55 36 37 0;
+#X connect 55 37 38 0;
+#X connect 55 38 39 0;
+#X connect 55 39 40 0;
+#X connect 55 40 41 0;
+#X connect 55 41 42 0;
+#X connect 55 42 57 0;
+#X connect 56 0 54 0;
+#X connect 56 0 55 0;

@@ -1,0 +1,10 @@
+#N canvas 1476 96 1475 1343 10;
+#X obj 129 301 comport 4 9600;
+#X msg 129 259 devices;
+#X obj 129 343 unserialize 4;
+#X obj 129 373 unpack f f f f f f f f f f f f f f f f f f f f f f f
+f f f f f f f f f f f f f f f f f f;
+#X connect 0 0 2 0;
+#X connect 1 0 0 0;
+#X connect 2 0 3 0;
+#X coords 0 0 2 2 0 0 0;

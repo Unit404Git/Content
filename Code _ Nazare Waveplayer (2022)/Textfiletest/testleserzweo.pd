@@ -1,0 +1,25 @@
+#N canvas 1422 588 647 516 12;
+#X obj 141 103 read liste;
+#X msg 174 155 read Liste.txt;
+#X obj 191 303 text tolist LISTE;
+#X obj 191 327 unpack f f f f f f;
+#X floatatom 159 393 5 0 0 0 - - - 0;
+#X floatatom 214 392 5 0 0 0 - - - 0;
+#X floatatom 269 390 5 0 0 0 - - - 0;
+#X floatatom 331 394 5 0 0 0 - - - 0;
+#X floatatom 388 402 5 0 0 0 - - - 0;
+#X obj 146 261 bng 15 250 50 0 empty empty empty 17 7 0 10 #fcfcfc
+#000000 #000000;
+#X obj 373 241 t b b;
+#X obj 175 214 text define LISTE;
+#X connect 1 0 11 0;
+#X connect 2 0 3 0;
+#X connect 3 0 4 0;
+#X connect 3 1 5 0;
+#X connect 3 2 6 0;
+#X connect 3 3 7 0;
+#X connect 3 4 8 0;
+#X connect 9 0 2 0;
+#X connect 10 0 9 0;
+#X connect 10 1 1 0;
+#X connect 11 1 10 0;
